@@ -131,3 +131,7 @@ dmypy.json
 # IDE
 .idea
 .vscode
+
+# input output
+input.txt
+output.txt
