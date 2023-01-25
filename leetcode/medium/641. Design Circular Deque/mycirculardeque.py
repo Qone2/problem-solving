@@ -56,6 +56,7 @@ class MyCircularDeque:
 
 # Your MyCircularDeque object will be instantiated and called as such:
 if __name__ == "__main__":
+    pass
     # obj = MyCircularDeque(5)
     # param_1 = obj.insertFront(7)
     # param_2 = obj.insertLast(0)
